@@ -1,0 +1,26 @@
+.textcenter{
+    text-align: center;
+    margin-left:0;
+    margin-right: 0;
+    position: relative;
+}
+table{
+    width: 100%;
+    margin: 25px 0;
+    border-collapse: collapse;
+  }
+  table, th, td{
+    border: 1px solid #6C220B;
+  }
+  table th, table td{
+    padding: 8px;
+    text-align: left;
+  }
+select{
+    padding:10px;
+    border:2px solid black;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}

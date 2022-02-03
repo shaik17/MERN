@@ -1,0 +1,42 @@
+.shaik{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.landing{
+background-image: url('https://blitzen.com/blog/wp-content/uploads/new-tech.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+width: 100%;
+height: 90vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+footer{
+  position: sticky;
+  bottom: 0px;
+  left:0px;
+  right:0px
+}
+.iconsize{
+  font-size: 20px;
+  
+}
+.dashboard{
+  margin-right: 2px;
+}
+.username{
+  font-size: 1.5rem;
+  margin-left: 3px;
+}
+.iconmargin{
+  margin-left: 2rem;
+}
+a{
+  text-decoration: none !important;
+}
